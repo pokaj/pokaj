@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Philip Owusu - Afriyie [website] 👋
 
-[![Website](https://owusuafriyie.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PhilipAfriyiejr)
 
 ## I'm a Full Stack Developer!
@@ -50,7 +49,7 @@
 
 </details>
 
-[website]: https:owusuafriyie.me
+[website]: https://owusuafriyie.me
 [twitter]: https://twitter.com/PhilipAfriyiejr
 [instagram]: https://www.instagram.com/afriyie_jnr/
 [linkedin]: linkedin.com/in/philip-owusu-afriyie
