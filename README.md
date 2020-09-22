@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Philip Owusu - Afriyie 🤙
+### Hi there, I'm Philip Owusu - Afriyie 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PhilipAfriyiejr?style=for-the-badge)](https://twitter.com/PhilipAfriyiejr)
 
