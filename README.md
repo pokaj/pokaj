@@ -7,7 +7,7 @@
 ## I'm a Full Stack Developer!
 
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & Develop meaningful and robust applications
+- 🥅 2021 Goals: Contribute more to Open Source projects & Develop meaningful and robust applications
 - ⚡ Fun fact: I love movies & sports. I play football, basketball, badminton & table tennis
 
 ### Connect with me:
